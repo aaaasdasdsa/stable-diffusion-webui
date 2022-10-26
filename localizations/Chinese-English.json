@@ -101,7 +101,7 @@
     "Include Separate Images": "包括独立的图像/Include Separate Images",
     "Keep -1 for seeds": "保持图像生成种子值为-1/Keep -1 for seeds",
     "Drop Image Here": "拖拽图像至此/Drop Image Here",
-    "Save": "保存/Save",
+    "Save": "暂时不能",
     "Send to img2img": "发送至图像转图像/Send to img2img",
     "Send to inpaint": "发送至局部绘制/Send to inpaint",
     "Send to extras": "发送至高清化/Send to extras",
